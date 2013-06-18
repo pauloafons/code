@@ -1,4 +1,4 @@
 code
 ====
 
-repositório teste para o projeto codeigniterteste
+repositório teste para o projeto codeigniter
