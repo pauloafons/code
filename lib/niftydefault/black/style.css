@@ -1,0 +1,63 @@
+/* (C) 2007 YOOtheme.com */
+
+/* login */
+body.yootools-black span.niftydefault span.yoo-login span.login span.username {
+	background: url(styles/niftydefault/black/images/username_bg.gif) 0 0 no-repeat; /* ie6png:crop */
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.password {
+	background: url(styles/niftydefault/black/images/password_bg.gif) 0 0 no-repeat; /* ie6png:crop */
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.username:hover {
+	background: url(styles/niftydefault/black/images/username_bg.gif) 0 -24px no-repeat;
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.password:hover {
+	background: url(styles/niftydefault/black/images/password_bg.gif) 0 -24px no-repeat;
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.username input,
+body.yootools-black span.niftydefault span.yoo-login span.login span.password input {
+	color: #646464;
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.username input:hover,
+body.yootools-black span.niftydefault span.yoo-login span.login span.password input:hover,
+body.yootools-black span.niftydefault span.yoo-login span.login span.username input:focus,
+body.yootools-black span.niftydefault span.yoo-login span.login span.password input:focus {
+	color: #ffffaa;
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.login-button-icon {
+	background: url(styles/niftydefault/black/images/button_bg.png) 0 0 no-repeat; /* ie6png:crop */
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.login-button-icon:hover {
+	background: url(styles/niftydefault/black/images/button_bg.png) 0 -20px no-repeat;
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.login-button-icon button {
+	color: #646464;
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.login span.login-button-icon button:hover {
+	color: #ffffaa;
+}
+
+/* logout */
+body.yootools-black span.niftydefault span.yoo-login span.logout span.logout-button-icon {
+	background: url(styles/niftydefault/black/images/button_bg.png) 0 0 no-repeat; /* ie6png:crop */
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.logout span.logout-button-icon:hover {
+	background: url(styles/niftydefault/black/images/button_bg.png) 0 -20px no-repeat;
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.logout span.logout-button-icon button {
+	color: #646464;
+}
+
+body.yootools-black span.niftydefault span.yoo-login span.logout span.logout-button-icon button:hover {
+	color: #ffffaa;
+}
